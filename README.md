@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vineet</h1>
 
 <p align="center">
-  💻 Full-Stack Developer | ☁️ Cloud & DevOps Learner | 🤖 AI Enthusiast <br/>
+   Full-Stack Developer |  Cloud & DevOps Learner |  AI Enthusiast <br/>
   🎓 B.Tech CSE — NIT Delhi (2023 - 2027)
 </p>
 
@@ -53,7 +53,7 @@ Tech: React, Node.js, OpenAI API
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vineetj12&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetj12&layout=compact&theme=tokyonight" />
