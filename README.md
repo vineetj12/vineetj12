@@ -53,11 +53,16 @@ Tech: React, Node.js, OpenAI API
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vineetj12&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetj12&layout=compact&theme=tokyonight" />
-</p>
+### 📊 GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=vineetj12&show_icons=true&rank_icon=github&theme=tokyonight" height="160" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetj12&layout=compact&theme=tokyonight" height="160" />
+
+</div>
+
 
 ---
 
