@@ -56,12 +56,15 @@ Tech: React, Node.js, OpenAI API
 ### 📊 GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=vineetj12&show_icons=true&theme=transparent" height="160" alt="Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetj12&layout=compact&theme=transparent" height="160" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vineetj12&theme=transparent" height="150" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vineetj12&theme=transparent" height="150" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineetj12&theme=transparent" height="150" />
 
 </div>
+
 
 
 
