@@ -61,8 +61,6 @@ Tech: React, Node.js, OpenAI API
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vineetj12&theme=transparent" height="150" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineetj12&theme=transparent" height="150" />
-
 </div>
 
 
